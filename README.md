@@ -1,6 +1,6 @@
 # Databricks
 Building an End to End Data Analytics Project in Databricks Free Edition
-#Project Summary
+##Project Summary
 
 This project showcases a complete data analytics lifecycle using Databricks 
 It focuses on analyzing United States greenhouse gas emissions data and delivering insights through interactive dashboards
