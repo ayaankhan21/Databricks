@@ -51,6 +51,9 @@ The analysis provides answers to critical environmental questions:
 ## 📈 Dashboard & Insights
 The final interactive dashboard includes a United States emissions map, scatter plots for population analysis, and bar charts for county rankings.
 
+![dashboard databricks](https://github.com/user-attachments/assets/40e05a3b-90ef-4be1-bd37-dc9abcc110df)
+
+
 ### Key Insights:
 * **Concentration:** A small number of states account for a large share of total US emissions.
 * **Population Paradox:** High-population regions often show lower emissions per person, while some low-population industrial counties show massive
