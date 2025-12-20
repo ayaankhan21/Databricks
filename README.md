@@ -1,9 +1,8 @@
 # US Greenhouse Gas Emissions: End-to-End Data Analytics Project Using Databricks
 
 ## 📋 Project Overview
-This project demonstrates a complete data analytics lifecycle within the **Databricks Free Edition** environment. It focuses on transforming raw United States greenhouse gas (GHG) emissions data into actionable insights through SQL-based engineering and interactive data visualization.
+This project demonstrates a complete data analytics lifecycle within the **Databricks ** environment. It focuses on transforming raw United States greenhouse gas (GHG) emissions data into actionable insights through SQL-based engineering and interactive data visualization.
 
-**Target Roles:** Data Analyst, BI Analyst, Entry-Level Data Engineer.
 
 ---
 
